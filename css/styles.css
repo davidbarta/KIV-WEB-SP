@@ -1,0 +1,51 @@
+body {
+    background-color: lightgray;
+}
+nav {
+    background-color: darkblue; margin-bottom: 10px; padding: 5px; color:lightgray;
+}
+nav a {
+    color: aliceblue; padding: 5px;
+}
+
+.myFileInput {
+    margin-left: 15px;
+}
+
+.myFormNovyPrispevek {
+    padding-left: 15px;
+}
+
+.myColspan {
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+.myButton {
+    float: left;
+}
+
+.myDiv {
+    float: left;
+    clear: left;
+    margin: 0 15px;
+}
+
+.myButton1 {
+    margin: 0 10px 15px 0;
+}
+
+.myButton2 {
+    margin-left: 15px;
+}
+
+.myClear {
+    clear: both;
+}
